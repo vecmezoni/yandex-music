@@ -1,0 +1,16 @@
+{
+  "name": "yandex-music",
+  "version": "0.0.1",
+  "description": "Yandex Music unofficial application",
+  "main": "https://music.yandex.ru",
+  "window": {
+    "node-remote": "*",
+    "title": "Yandex Music",
+    "icon": "icon.png",
+    "toolbar": false,
+    "width": 1024,
+    "height": 768
+  },
+  "node-remote": "*",
+  "inject-js-end": "index.js"
+}

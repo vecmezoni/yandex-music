@@ -1,0 +1,13 @@
+{
+  "name": "yandex-music",
+  "version": "0.0.1",
+  "description": "Yandex Music unofficial application",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "0.1.13",
+    "grunt-nw-builder": "^2.0.0"
+  },
+  "scripts": {
+    "build": "grunt"
+  }
+}
